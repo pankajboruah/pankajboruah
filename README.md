@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on building my own portfolio. My journey has just begun and I have a long way to go. 
-  I am a javascript developer and am comfortable in working on vue.js and react.js. 
+🔭 I’m currently working on improving myself to be a great software engineer. My journey has just begun and I have a long way to go. 
+  I am a javascript developer and am comfortable in working on react.js and vue.js. 
   
 🌱 I’m currently learning how to build and maintain a backend architecture. I am using nodejs + express for that.
 
@@ -13,7 +13,7 @@
 ⚡ Fun fact: I like to notice stuff. 
 
             One of the things that I have noticed recently: The way you look at yourself in the mirror(i.e. your mirror image) is not the image other people see. 
-            This is true if you don't have a symmetric face like myself😃.
+            This is true if you don't have a symmetric face😃.
 <!--
 **pankajboruah/pankajboruah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
